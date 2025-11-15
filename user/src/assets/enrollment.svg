@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="200" viewBox="0 0 600 200">
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="#f0f4f8"/>
+  
+  <!-- Stairs under ENROLL -->
+  <rect x="50" y="130" width="500" height="15" fill="#4da6ff"/>
+  <rect x="70" y="115" width="460" height="15" fill="#4da6ff"/>
+  <rect x="90" y="100" width="420" height="15" fill="#4da6ff"/>
+  
+  <!-- ENROLL Text -->
+  <text x="300" y="90" font-family="Segoe UI, sans-serif" font-size="50" font-weight="bold" fill="#007acc" text-anchor="middle">ENROLL</text>
+  
+  <!-- Clipboard -->
+  <rect x="450" y="40" width="120" height="120" rx="10" fill="#e6f0ff" stroke="#007acc" stroke-width="2"/>
+  <rect x="495" y="20" width="30" height="20" rx="5" fill="#007acc"/>
+  
+  <!-- Checklist items -->
+  <line x1="460" y1="60" x2="560" y2="60" stroke="#007acc" stroke-width="2"/>
+  <line x1="460" y1="80" x2="560" y2="80" stroke="#007acc" stroke-width="2"/>
+  <line x1="460" y1="100" x2="560" y2="100" stroke="#007acc" stroke-width="2"/>
+  <line x1="460" y1="120" x2="560" y2="120" stroke="#007acc" stroke-width="2"/>
+  
+  <!-- Check marks -->
+  <polyline points="455,60 460,65 470,55" fill="none" stroke="#00cc66" stroke-width="3"/>
+  <polyline points="455,80 460,85 470,75" fill="none" stroke="#00cc66" stroke-width="3"/>
+  <polyline points="455,100 460,105 470,95" fill="none" stroke="#00cc66" stroke-width="3"/>
+  <polyline points="455,120 460,125 470,115" fill="none" stroke="#00cc66" stroke-width="3"/>
+  
+  <!-- Character figure -->
+  <circle cx="420" cy="140" r="20" fill="#ffcc99"/>
+  <rect x="410" y="160" width="20" height="40" fill="#663399"/>
+  <rect x="400" y="160" width="10" height="25" fill="#663399"/>
+  <rect x="430" y="160" width="10" height="25" fill="#663399"/>
+</svg>

@@ -1,0 +1,37 @@
+USE enrollment;
+
+CREATE TABLE IF NOT EXISTS students (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    fullname VARCHAR(255) NOT NULL,
+    student_id VARCHAR(50) NOT NULL UNIQUE,
+    email VARCHAR(255) NOT NULL,
+    course VARCHAR(150) NOT NULL,
+    section VARCHAR(50) NOT NULL,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+CREATE TABLE users (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    fullname VARCHAR(255) NOT NULL,
+    email VARCHAR(255) NOT NULL UNIQUE,
+    password VARCHAR(255) NOT NULL,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+CREATE TABLE enrolled (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    fullName VARCHAR(255) NOT NULL,
+    email VARCHAR(255) NOT NULL UNIQUE,
+    contact VARCHAR(50) NOT NULL,
+    course VARCHAR(255) NOT NULL,
+    status VARCHAR(50) NOT NULL DEFAULT 'Pending',
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    reviewed_at TIMESTAMP NULL DEFAULT NULL        
+);
+
+CREATE TABLE screening_answers (
+    id INT(11) NOT NULL AUTO_INCREMENT PRIMARY KEY,
+    email VARCHAR(255),
+    question TEXT,
+    answer TEXT
+);

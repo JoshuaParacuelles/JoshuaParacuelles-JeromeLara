@@ -1,0 +1,1428 @@
+2025-11-07 10:44:55
+RAW:
+
+PARSED:
+
+
+2025-11-07 10:44:55
+RAW:
+{"email":"Paracuellesjoshua@gmail.com","questions":["What programming languages are you familiar with?","Difference between IT and CS?","Why are you interested in computers?","What software/app would you like to create?","Do you enjoy logical/math problems?"],"answers":["qwe","qwe","qwe","qwe","qwwww"]}
+PARSED:
+Array
+(
+    [email] => Paracuellesjoshua@gmail.com
+    [questions] => Array
+        (
+            [0] => What programming languages are you familiar with?
+            [1] => Difference between IT and CS?
+            [2] => Why are you interested in computers?
+            [3] => What software/app would you like to create?
+            [4] => Do you enjoy logical/math problems?
+        )
+
+    [answers] => Array
+        (
+            [0] => qwe
+            [1] => qwe
+            [2] => qwe
+            [3] => qwe
+            [4] => qwwww
+        )
+
+)
+
+
+2025-11-07 10:45:29
+RAW:
+
+PARSED:
+
+
+2025-11-07 10:45:29
+RAW:
+{"email":"Paracuellesjoshua@gmail.com","questions":["What programming languages are you familiar with?","Difference between IT and CS?","Why are you interested in computers?","What software/app would you like to create?","Do you enjoy logical/math problems?"],"answers":["wqe","qwe","qwe","qwe","qwe"]}
+PARSED:
+Array
+(
+    [email] => Paracuellesjoshua@gmail.com
+    [questions] => Array
+        (
+            [0] => What programming languages are you familiar with?
+            [1] => Difference between IT and CS?
+            [2] => Why are you interested in computers?
+            [3] => What software/app would you like to create?
+            [4] => Do you enjoy logical/math problems?
+        )
+
+    [answers] => Array
+        (
+            [0] => wqe
+            [1] => qwe
+            [2] => qwe
+            [3] => qwe
+            [4] => qwe
+        )
+
+)
+
+
+2025-11-07 12:15:06
+RAW:
+
+PARSED:
+
+
+2025-11-07 12:15:06
+RAW:
+{"email":"lara@gmail.com","questions":["What programming languages are you familiar with?","Difference between IT and CS?","Why are you interested in computers?","What software/app would you like to create?","Do you enjoy logical/math problems?"],"answers":["qwe","qwe","qwe","qwe","qwe"]}
+PARSED:
+Array
+(
+    [email] => lara@gmail.com
+    [questions] => Array
+        (
+            [0] => What programming languages are you familiar with?
+            [1] => Difference between IT and CS?
+            [2] => Why are you interested in computers?
+            [3] => What software/app would you like to create?
+            [4] => Do you enjoy logical/math problems?
+        )
+
+    [answers] => Array
+        (
+            [0] => qwe
+            [1] => qwe
+            [2] => qwe
+            [3] => qwe
+            [4] => qwe
+        )
+
+)
+
+
+2025-11-07 12:19:31
+RAW:
+
+PARSED:
+
+
+2025-11-07 12:19:31
+RAW:
+{"email":"bembang@gmail.com","questions":["What interests you in agribusiness?","Do you have experience with farming?","Why is agriculture important?","What agribusiness would you start?","How can technology improve agriculture?"],"answers":["qwe","qwe","qwe","qwe","qwww"]}
+PARSED:
+Array
+(
+    [email] => bembang@gmail.com
+    [questions] => Array
+        (
+            [0] => What interests you in agribusiness?
+            [1] => Do you have experience with farming?
+            [2] => Why is agriculture important?
+            [3] => What agribusiness would you start?
+            [4] => How can technology improve agriculture?
+        )
+
+    [answers] => Array
+        (
+            [0] => qwe
+            [1] => qwe
+            [2] => qwe
+            [3] => qwe
+            [4] => qwww
+        )
+
+)
+
+
+2025-11-07 12:19:56
+RAW:
+
+PARSED:
+
+
+2025-11-07 12:19:56
+RAW:
+{"email":"bembang@gmail.com","questions":["What programming languages are you familiar with?","Difference between IT and CS?","Why are you interested in computers?","What software/app would you like to create?","Do you enjoy logical/math problems?"],"answers":["qwe","qwe","qwe","qw","ww"]}
+PARSED:
+Array
+(
+    [email] => bembang@gmail.com
+    [questions] => Array
+        (
+            [0] => What programming languages are you familiar with?
+            [1] => Difference between IT and CS?
+            [2] => Why are you interested in computers?
+            [3] => What software/app would you like to create?
+            [4] => Do you enjoy logical/math problems?
+        )
+
+    [answers] => Array
+        (
+            [0] => qwe
+            [1] => qwe
+            [2] => qwe
+            [3] => qw
+            [4] => ww
+        )
+
+)
+
+
+2025-11-07 12:21:10
+RAW:
+
+PARSED:
+
+
+2025-11-07 12:21:10
+RAW:
+{"email":"bembang@gmail.com","questions":["What programming languages are you familiar with?","Difference between IT and CS?","Why are you interested in computers?","What software/app would you like to create?","Do you enjoy logical/math problems?"],"answers":["qwe","qwe","qwe","qwe","qwe"]}
+PARSED:
+Array
+(
+    [email] => bembang@gmail.com
+    [questions] => Array
+        (
+            [0] => What programming languages are you familiar with?
+            [1] => Difference between IT and CS?
+            [2] => Why are you interested in computers?
+            [3] => What software/app would you like to create?
+            [4] => Do you enjoy logical/math problems?
+        )
+
+    [answers] => Array
+        (
+            [0] => qwe
+            [1] => qwe
+            [2] => qwe
+            [3] => qwe
+            [4] => qwe
+        )
+
+)
+
+
+2025-11-07 18:09:35
+RAW:
+
+PARSED:
+
+
+2025-11-07 18:09:35
+RAW:
+{"email":"joshua@gmail.com","questions":["What programming languages are you familiar with?","Why did you choose IT?","What do you enjoy most about using computers?","Do you prefer working alone or in a team?","What kind of IT job would you like?"],"answers":["html","because i love it ","playing games","alon","eqwe"]}
+PARSED:
+Array
+(
+    [email] => joshua@gmail.com
+    [questions] => Array
+        (
+            [0] => What programming languages are you familiar with?
+            [1] => Why did you choose IT?
+            [2] => What do you enjoy most about using computers?
+            [3] => Do you prefer working alone or in a team?
+            [4] => What kind of IT job would you like?
+        )
+
+    [answers] => Array
+        (
+            [0] => html
+            [1] => because i love it 
+            [2] => playing games
+            [3] => alon
+            [4] => eqwe
+        )
+
+)
+
+
+2025-11-07 18:15:30
+RAW:
+
+PARSED:
+
+
+2025-11-07 18:15:30
+RAW:
+{"email":"joshua@gmail.com","questions":["Which subjects do you enjoy teaching the most?","Have you done teaching demos or peer tutoring at school?","How do you manage classroom activities in projects or practice?","Which educational theories interest you the most?","How do you prepare for exams or assessments in teaching practice?"],"answers":["wqe","qwe","qwe","qwe","qwe"]}
+PARSED:
+Array
+(
+    [email] => joshua@gmail.com
+    [questions] => Array
+        (
+            [0] => Which subjects do you enjoy teaching the most?
+            [1] => Have you done teaching demos or peer tutoring at school?
+            [2] => How do you manage classroom activities in projects or practice?
+            [3] => Which educational theories interest you the most?
+            [4] => How do you prepare for exams or assessments in teaching practice?
+        )
+
+    [answers] => Array
+        (
+            [0] => wqe
+            [1] => qwe
+            [2] => qwe
+            [3] => qwe
+            [4] => qwe
+        )
+
+)
+
+
+2025-11-07 18:31:42
+RAW:
+
+PARSED:
+
+
+2025-11-07 18:31:42
+RAW:
+{"email":"joshua1@gmail.com","questions":["Have you used a computer before? What do you usually do on it?","Which part of using computers do you find most interesting?","Do you enjoy learning how to make websites or apps?","Do you like working on computers alone or with friends?","Why do you want to study IT in school?"],"answers":["test","test","test","test","test"]}
+PARSED:
+Array
+(
+    [email] => joshua1@gmail.com
+    [questions] => Array
+        (
+            [0] => Have you used a computer before? What do you usually do on it?
+            [1] => Which part of using computers do you find most interesting?
+            [2] => Do you enjoy learning how to make websites or apps?
+            [3] => Do you like working on computers alone or with friends?
+            [4] => Why do you want to study IT in school?
+        )
+
+    [answers] => Array
+        (
+            [0] => test
+            [1] => test
+            [2] => test
+            [3] => test
+            [4] => test
+        )
+
+)
+
+
+2025-11-07 18:32:08
+RAW:
+
+PARSED:
+
+
+2025-11-07 18:32:08
+RAW:
+{"email":"joshua2@gmail.com","questions":["Have you tried writing simple programs or code before?","Which computer subject in school did you enjoy the most?","Do you like solving puzzles or logical problems?","Have you ever tried making a game or app at school?","Why are you interested in learning more about computers?"],"answers":["test","test","test","test","test"]}
+PARSED:
+Array
+(
+    [email] => joshua2@gmail.com
+    [questions] => Array
+        (
+            [0] => Have you tried writing simple programs or code before?
+            [1] => Which computer subject in school did you enjoy the most?
+            [2] => Do you like solving puzzles or logical problems?
+            [3] => Have you ever tried making a game or app at school?
+            [4] => Why are you interested in learning more about computers?
+        )
+
+    [answers] => Array
+        (
+            [0] => test
+            [1] => test
+            [2] => test
+            [3] => test
+            [4] => test
+        )
+
+)
+
+
+2025-11-07 18:32:42
+RAW:
+
+PARSED:
+
+
+2025-11-07 18:32:42
+RAW:
+{"email":"joshua3@gmail.com","questions":["What made you interested in Criminology?","Do you enjoy learning about laws and rules in school?","Have you participated in any school activities related to law or safety?","Do you like solving problems or figuring out solutions?","Which Criminology topic are you excited to learn first?"],"answers":["test","test","test","test","test"]}
+PARSED:
+Array
+(
+    [email] => joshua3@gmail.com
+    [questions] => Array
+        (
+            [0] => What made you interested in Criminology?
+            [1] => Do you enjoy learning about laws and rules in school?
+            [2] => Have you participated in any school activities related to law or safety?
+            [3] => Do you like solving problems or figuring out solutions?
+            [4] => Which Criminology topic are you excited to learn first?
+        )
+
+    [answers] => Array
+        (
+            [0] => test
+            [1] => test
+            [2] => test
+            [3] => test
+            [4] => test
+        )
+
+)
+
+
+2025-11-07 18:33:11
+RAW:
+
+PARSED:
+
+
+2025-11-07 18:33:11
+RAW:
+{"email":"joshua4@gmail.com","questions":["Do you enjoy helping and serving people?","Have you participated in school events or projects that involve teamwork?","Which school subject do you like that is related to hospitality?","Do you like organizing things or planning events?","What interests you most about studying Hospitality?"],"answers":["test","test","test","test","test"]}
+PARSED:
+Array
+(
+    [email] => joshua4@gmail.com
+    [questions] => Array
+        (
+            [0] => Do you enjoy helping and serving people?
+            [1] => Have you participated in school events or projects that involve teamwork?
+            [2] => Which school subject do you like that is related to hospitality?
+            [3] => Do you like organizing things or planning events?
+            [4] => What interests you most about studying Hospitality?
+        )
+
+    [answers] => Array
+        (
+            [0] => test
+            [1] => test
+            [2] => test
+            [3] => test
+            [4] => test
+        )
+
+)
+
+
+2025-11-07 18:33:50
+RAW:
+
+PARSED:
+
+
+2025-11-07 18:33:50
+RAW:
+{"email":"joshua5@gmail.com","questions":["Do you like learning about farming or business?","Have you done any school projects related to agriculture or selling things?","Do you enjoy using computers to learn new things?","Which part of Agribusiness interests you the most?","Why do you want to study Agribusiness?"],"answers":["ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss","ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss","ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss","ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss","ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss"]}
+PARSED:
+Array
+(
+    [email] => joshua5@gmail.com
+    [questions] => Array
+        (
+            [0] => Do you like learning about farming or business?
+            [1] => Have you done any school projects related to agriculture or selling things?
+            [2] => Do you enjoy using computers to learn new things?
+            [3] => Which part of Agribusiness interests you the most?
+            [4] => Why do you want to study Agribusiness?
+        )
+
+    [answers] => Array
+        (
+            [0] => ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
+            [1] => ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
+            [2] => ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
+            [3] => ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
+            [4] => ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
+        )
+
+)
+
+
+2025-11-07 18:34:35
+RAW:
+
+PARSED:
+
+
+2025-11-07 18:34:35
+RAW:
+{"email":"joshua6@gmail.com","questions":["Do you like teaching or helping friends learn?","Which subject in school is your favorite?","Have you tried explaining something to others before?","Do you enjoy preparing presentations or projects?","Why do you want to become a teacher?"],"answers":["test","test","test","test","test"]}
+PARSED:
+Array
+(
+    [email] => joshua6@gmail.com
+    [questions] => Array
+        (
+            [0] => Do you like teaching or helping friends learn?
+            [1] => Which subject in school is your favorite?
+            [2] => Have you tried explaining something to others before?
+            [3] => Do you enjoy preparing presentations or projects?
+            [4] => Why do you want to become a teacher?
+        )
+
+    [answers] => Array
+        (
+            [0] => test
+            [1] => test
+            [2] => test
+            [3] => test
+            [4] => test
+        )
+
+)
+
+
+2025-11-08 20:49:13
+RAW:
+
+PARSED:
+
+
+2025-11-08 20:49:13
+RAW:
+{"email":"JamaicaCamoro@gmail.com","questions":["Do you like teaching or helping friends learn?","Which subject in school is your favorite?","Have you tried explaining something to others before?","Do you enjoy preparing presentations or projects?","Why do you want to become a teacher?"],"answers":["idont know","idont know","idont know","idont know","idont know"]}
+PARSED:
+Array
+(
+    [email] => JamaicaCamoro@gmail.com
+    [questions] => Array
+        (
+            [0] => Do you like teaching or helping friends learn?
+            [1] => Which subject in school is your favorite?
+            [2] => Have you tried explaining something to others before?
+            [3] => Do you enjoy preparing presentations or projects?
+            [4] => Why do you want to become a teacher?
+        )
+
+    [answers] => Array
+        (
+            [0] => idont know
+            [1] => idont know
+            [2] => idont know
+            [3] => idont know
+            [4] => idont know
+        )
+
+)
+
+
+2025-11-09 07:51:21
+RAW:
+
+PARSED:
+
+
+2025-11-09 07:51:21
+RAW:
+{"email":"joshua1@gmail.com","questions":["Have you tried writing simple programs or code before?","Which computer subject in school did you enjoy the most?","Do you like solving puzzles or logical problems?","Have you ever tried making a game or app at school?","Why are you interested in learning more about computers?"],"answers":["w","w","w","w","w"]}
+PARSED:
+Array
+(
+    [email] => joshua1@gmail.com
+    [questions] => Array
+        (
+            [0] => Have you tried writing simple programs or code before?
+            [1] => Which computer subject in school did you enjoy the most?
+            [2] => Do you like solving puzzles or logical problems?
+            [3] => Have you ever tried making a game or app at school?
+            [4] => Why are you interested in learning more about computers?
+        )
+
+    [answers] => Array
+        (
+            [0] => w
+            [1] => w
+            [2] => w
+            [3] => w
+            [4] => w
+        )
+
+)
+
+
+2025-11-09 07:53:58
+RAW:
+
+PARSED:
+
+
+2025-11-09 07:53:58
+RAW:
+{"email":"joshua1@gmail.com","questions":["Have you tried writing simple programs or code before?","Which computer subject in school did you enjoy the most?","Do you like solving puzzles or logical problems?","Have you ever tried making a game or app at school?","Why are you interested in learning more about computers?"],"answers":["test","test","test","test","test"]}
+PARSED:
+Array
+(
+    [email] => joshua1@gmail.com
+    [questions] => Array
+        (
+            [0] => Have you tried writing simple programs or code before?
+            [1] => Which computer subject in school did you enjoy the most?
+            [2] => Do you like solving puzzles or logical problems?
+            [3] => Have you ever tried making a game or app at school?
+            [4] => Why are you interested in learning more about computers?
+        )
+
+    [answers] => Array
+        (
+            [0] => test
+            [1] => test
+            [2] => test
+            [3] => test
+            [4] => test
+        )
+
+)
+
+
+2025-11-09 08:00:37
+RAW:
+
+PARSED:
+
+
+2025-11-09 08:00:37
+RAW:
+{"email":"joshua1@gmail.com","questions":["Have you used a computer before? What do you usually do on it?","Which part of using computers do you find most interesting?","Do you enjoy learning how to make websites or apps?","Do you like working on computers alone or with friends?","Why do you want to study IT in school?"],"answers":["kayat","kayat","kayat","kayat","kayat"]}
+PARSED:
+Array
+(
+    [email] => joshua1@gmail.com
+    [questions] => Array
+        (
+            [0] => Have you used a computer before? What do you usually do on it?
+            [1] => Which part of using computers do you find most interesting?
+            [2] => Do you enjoy learning how to make websites or apps?
+            [3] => Do you like working on computers alone or with friends?
+            [4] => Why do you want to study IT in school?
+        )
+
+    [answers] => Array
+        (
+            [0] => kayat
+            [1] => kayat
+            [2] => kayat
+            [3] => kayat
+            [4] => kayat
+        )
+
+)
+
+
+2025-11-09 15:32:22
+RAW:
+
+PARSED:
+
+
+2025-11-09 15:32:22
+RAW:
+{"email":"LaraG@gmail.com","questions":["Have you used a computer before? What do you usually do on it?","Which part of using computers do you find most interesting?","Do you enjoy learning how to make websites or apps?","Do you like working on computers alone or with friends?","Why do you want to study IT in school?"],"answers":["test","test","test","test","test"]}
+PARSED:
+Array
+(
+    [email] => LaraG@gmail.com
+    [questions] => Array
+        (
+            [0] => Have you used a computer before? What do you usually do on it?
+            [1] => Which part of using computers do you find most interesting?
+            [2] => Do you enjoy learning how to make websites or apps?
+            [3] => Do you like working on computers alone or with friends?
+            [4] => Why do you want to study IT in school?
+        )
+
+    [answers] => Array
+        (
+            [0] => test
+            [1] => test
+            [2] => test
+            [3] => test
+            [4] => test
+        )
+
+)
+
+
+2025-11-10 14:19:59
+RAW:
+
+PARSED:
+
+
+2025-11-10 14:19:59
+RAW:
+{"email":"n@gmail.com","questions":["Have you tried writing simple programs or code before?","Which computer subject in school did you enjoy the most?","Do you like solving puzzles or logical problems?","Have you ever tried making a game or app at school?","Why are you interested in learning more about computers?"],"answers":["q","w","w","w","w"]}
+PARSED:
+Array
+(
+    [email] => n@gmail.com
+    [questions] => Array
+        (
+            [0] => Have you tried writing simple programs or code before?
+            [1] => Which computer subject in school did you enjoy the most?
+            [2] => Do you like solving puzzles or logical problems?
+            [3] => Have you ever tried making a game or app at school?
+            [4] => Why are you interested in learning more about computers?
+        )
+
+    [answers] => Array
+        (
+            [0] => q
+            [1] => w
+            [2] => w
+            [3] => w
+            [4] => w
+        )
+
+)
+
+
+2025-11-10 20:32:25
+RAW:
+
+PARSED:
+
+
+2025-11-10 20:32:25
+RAW:
+{"email":"w@gmail.com","questions":["Have you tried writing simple programs or code before?","Which computer subject in school did you enjoy the most?","Do you like solving puzzles or logical problems?","Have you ever tried making a game or app at school?","Why are you interested in learning more about computers?"],"answers":["qwe","qwe","qwe","qwe","qwe"]}
+PARSED:
+Array
+(
+    [email] => w@gmail.com
+    [questions] => Array
+        (
+            [0] => Have you tried writing simple programs or code before?
+            [1] => Which computer subject in school did you enjoy the most?
+            [2] => Do you like solving puzzles or logical problems?
+            [3] => Have you ever tried making a game or app at school?
+            [4] => Why are you interested in learning more about computers?
+        )
+
+    [answers] => Array
+        (
+            [0] => qwe
+            [1] => qwe
+            [2] => qwe
+            [3] => qwe
+            [4] => qwe
+        )
+
+)
+
+
+2025-11-10 20:37:13
+RAW:
+
+PARSED:
+
+
+2025-11-10 20:37:13
+RAW:
+{"email":"qwe@gmail.com","questions":["Have you used a computer before? What do you usually do on it?","Which part of using computers do you find most interesting?","Do you enjoy learning how to make websites or apps?","Do you like working on computers alone or with friends?","Why do you want to study IT in school?"],"answers":["test","test","test","test","test"]}
+PARSED:
+Array
+(
+    [email] => qwe@gmail.com
+    [questions] => Array
+        (
+            [0] => Have you used a computer before? What do you usually do on it?
+            [1] => Which part of using computers do you find most interesting?
+            [2] => Do you enjoy learning how to make websites or apps?
+            [3] => Do you like working on computers alone or with friends?
+            [4] => Why do you want to study IT in school?
+        )
+
+    [answers] => Array
+        (
+            [0] => test
+            [1] => test
+            [2] => test
+            [3] => test
+            [4] => test
+        )
+
+)
+
+
+2025-11-10 20:38:35
+RAW:
+
+PARSED:
+
+
+2025-11-10 20:38:35
+RAW:
+{"email":"JeromeLara@gmail.com","questions":["What made you interested in Criminology?","Do you enjoy learning about laws and rules in school?","Have you participated in any school activities related to law or safety?","Do you like solving problems or figuring out solutions?","Which Criminology topic are you excited to learn first?"],"answers":["kayat","kayat","kayat","kayat","kayat"]}
+PARSED:
+Array
+(
+    [email] => JeromeLara@gmail.com
+    [questions] => Array
+        (
+            [0] => What made you interested in Criminology?
+            [1] => Do you enjoy learning about laws and rules in school?
+            [2] => Have you participated in any school activities related to law or safety?
+            [3] => Do you like solving problems or figuring out solutions?
+            [4] => Which Criminology topic are you excited to learn first?
+        )
+
+    [answers] => Array
+        (
+            [0] => kayat
+            [1] => kayat
+            [2] => kayat
+            [3] => kayat
+            [4] => kayat
+        )
+
+)
+
+
+2025-11-10 20:39:34
+RAW:
+
+PARSED:
+
+
+2025-11-10 20:39:34
+RAW:
+{"email":"JayVeeCaballero@gmail.com","questions":["Do you like learning about farming or business?","Have you done any school projects related to agriculture or selling things?","Do you enjoy using computers to learn new things?","Which part of Agribusiness interests you the most?","Why do you want to study Agribusiness?"],"answers":["ulok","ulok","ulok","ulok","ulok"]}
+PARSED:
+Array
+(
+    [email] => JayVeeCaballero@gmail.com
+    [questions] => Array
+        (
+            [0] => Do you like learning about farming or business?
+            [1] => Have you done any school projects related to agriculture or selling things?
+            [2] => Do you enjoy using computers to learn new things?
+            [3] => Which part of Agribusiness interests you the most?
+            [4] => Why do you want to study Agribusiness?
+        )
+
+    [answers] => Array
+        (
+            [0] => ulok
+            [1] => ulok
+            [2] => ulok
+            [3] => ulok
+            [4] => ulok
+        )
+
+)
+
+
+2025-11-10 20:40:32
+RAW:
+
+PARSED:
+
+
+2025-11-10 20:40:32
+RAW:
+{"email":"KirbyMacasinag@gmail.com","questions":["Do you like teaching or helping friends learn?","Which subject in school is your favorite?","Have you tried explaining something to others before?","Do you enjoy preparing presentations or projects?","Why do you want to become a teacher?"],"answers":["rachelle","rachelle","rachelle","rachelle","rachelle"]}
+PARSED:
+Array
+(
+    [email] => KirbyMacasinag@gmail.com
+    [questions] => Array
+        (
+            [0] => Do you like teaching or helping friends learn?
+            [1] => Which subject in school is your favorite?
+            [2] => Have you tried explaining something to others before?
+            [3] => Do you enjoy preparing presentations or projects?
+            [4] => Why do you want to become a teacher?
+        )
+
+    [answers] => Array
+        (
+            [0] => rachelle
+            [1] => rachelle
+            [2] => rachelle
+            [3] => rachelle
+            [4] => rachelle
+        )
+
+)
+
+
+2025-11-10 20:41:12
+RAW:
+
+PARSED:
+
+
+2025-11-10 20:41:12
+RAW:
+{"email":"Jarred_Numbra@gmail.com","questions":["Do you enjoy helping and serving people?","Have you participated in school events or projects that involve teamwork?","Which school subject do you like that is related to hospitality?","Do you like organizing things or planning events?","What interests you most about studying Hospitality?"],"answers":["haha","haha","haha","haha","haha"]}
+PARSED:
+Array
+(
+    [email] => Jarred_Numbra@gmail.com
+    [questions] => Array
+        (
+            [0] => Do you enjoy helping and serving people?
+            [1] => Have you participated in school events or projects that involve teamwork?
+            [2] => Which school subject do you like that is related to hospitality?
+            [3] => Do you like organizing things or planning events?
+            [4] => What interests you most about studying Hospitality?
+        )
+
+    [answers] => Array
+        (
+            [0] => haha
+            [1] => haha
+            [2] => haha
+            [3] => haha
+            [4] => haha
+        )
+
+)
+
+
+2025-11-10 20:44:30
+RAW:
+
+PARSED:
+
+
+2025-11-10 20:44:30
+RAW:
+{"email":"Jarred_Numbra@gmail.com","questions":["Do you enjoy helping and serving people?","Have you participated in school events or projects that involve teamwork?","Which school subject do you like that is related to hospitality?","Do you like organizing things or planning events?","What interests you most about studying Hospitality?"],"answers":["qwe","qwe","qwe","qwe","qwe"]}
+PARSED:
+Array
+(
+    [email] => Jarred_Numbra@gmail.com
+    [questions] => Array
+        (
+            [0] => Do you enjoy helping and serving people?
+            [1] => Have you participated in school events or projects that involve teamwork?
+            [2] => Which school subject do you like that is related to hospitality?
+            [3] => Do you like organizing things or planning events?
+            [4] => What interests you most about studying Hospitality?
+        )
+
+    [answers] => Array
+        (
+            [0] => qwe
+            [1] => qwe
+            [2] => qwe
+            [3] => qwe
+            [4] => qwe
+        )
+
+)
+
+
+2025-11-11 08:09:32
+RAW:
+
+PARSED:
+
+
+2025-11-11 08:09:32
+RAW:
+{"email":"paracuellesjoshua51@gmail.com","questions":["Have you used a computer before? What do you usually do on it?","Which part of using computers do you find most interesting?","Do you enjoy learning how to make websites or apps?","Do you like working on computers alone or with friends?","Why do you want to study IT in school?"],"answers":["test","test","test","test","test"]}
+PARSED:
+Array
+(
+    [email] => paracuellesjoshua51@gmail.com
+    [questions] => Array
+        (
+            [0] => Have you used a computer before? What do you usually do on it?
+            [1] => Which part of using computers do you find most interesting?
+            [2] => Do you enjoy learning how to make websites or apps?
+            [3] => Do you like working on computers alone or with friends?
+            [4] => Why do you want to study IT in school?
+        )
+
+    [answers] => Array
+        (
+            [0] => test
+            [1] => test
+            [2] => test
+            [3] => test
+            [4] => test
+        )
+
+)
+
+
+2025-11-12 12:14:28
+RAW:
+
+PARSED:
+
+
+2025-11-12 12:14:28
+RAW:
+{"email":"JaredNumber1@Gmail.com","questions":["Do you like learning about farming or business?","Have you done any school projects related to agriculture or selling things?","Do you enjoy using computers to learn new things?","Which part of Agribusiness interests you the most?","Why do you want to study Agribusiness?"],"answers":["test","test","test","test","test"]}
+PARSED:
+Array
+(
+    [email] => JaredNumber1@Gmail.com
+    [questions] => Array
+        (
+            [0] => Do you like learning about farming or business?
+            [1] => Have you done any school projects related to agriculture or selling things?
+            [2] => Do you enjoy using computers to learn new things?
+            [3] => Which part of Agribusiness interests you the most?
+            [4] => Why do you want to study Agribusiness?
+        )
+
+    [answers] => Array
+        (
+            [0] => test
+            [1] => test
+            [2] => test
+            [3] => test
+            [4] => test
+        )
+
+)
+
+
+2025-11-12 12:16:24
+RAW:
+
+PARSED:
+
+
+2025-11-12 12:16:24
+RAW:
+{"email":"JaredNumber1@Gmail.com","questions":["What made you interested in Criminology?","Do you enjoy learning about laws and rules in school?","Have you participated in any school activities related to law or safety?","Do you like solving problems or figuring out solutions?","Which Criminology topic are you excited to learn first?"],"answers":["test","test","test","test","test"]}
+PARSED:
+Array
+(
+    [email] => JaredNumber1@Gmail.com
+    [questions] => Array
+        (
+            [0] => What made you interested in Criminology?
+            [1] => Do you enjoy learning about laws and rules in school?
+            [2] => Have you participated in any school activities related to law or safety?
+            [3] => Do you like solving problems or figuring out solutions?
+            [4] => Which Criminology topic are you excited to learn first?
+        )
+
+    [answers] => Array
+        (
+            [0] => test
+            [1] => test
+            [2] => test
+            [3] => test
+            [4] => test
+        )
+
+)
+
+
+2025-11-12 12:35:25
+RAW:
+
+PARSED:
+
+
+2025-11-12 12:35:25
+RAW:
+{"email":"JaredNumber1@Gmail.com","questions":["Have you tried writing simple programs or code before?","Which computer subject in school did you enjoy the most?","Do you like solving puzzles or logical problems?","Have you ever tried making a game or app at school?","Why are you interested in learning more about computers?"],"answers":["w","w","w","w","w"]}
+PARSED:
+Array
+(
+    [email] => JaredNumber1@Gmail.com
+    [questions] => Array
+        (
+            [0] => Have you tried writing simple programs or code before?
+            [1] => Which computer subject in school did you enjoy the most?
+            [2] => Do you like solving puzzles or logical problems?
+            [3] => Have you ever tried making a game or app at school?
+            [4] => Why are you interested in learning more about computers?
+        )
+
+    [answers] => Array
+        (
+            [0] => w
+            [1] => w
+            [2] => w
+            [3] => w
+            [4] => w
+        )
+
+)
+
+
+2025-11-12 12:37:35
+RAW:
+
+PARSED:
+
+
+2025-11-12 12:37:35
+RAW:
+{"email":"JaredNumber1@Gmail.com","questions":["Do you enjoy solving mathematical problems?","Are you confident explaining math concepts to others?","Do you like logical reasoning and analysis?","Have you participated in math-related contests or tutoring?","Why do you want to become a Math teacher?"],"answers":["eqw","ewq","wq","eqwe","qwe"]}
+PARSED:
+Array
+(
+    [email] => JaredNumber1@Gmail.com
+    [questions] => Array
+        (
+            [0] => Do you enjoy solving mathematical problems?
+            [1] => Are you confident explaining math concepts to others?
+            [2] => Do you like logical reasoning and analysis?
+            [3] => Have you participated in math-related contests or tutoring?
+            [4] => Why do you want to become a Math teacher?
+        )
+
+    [answers] => Array
+        (
+            [0] => eqw
+            [1] => ewq
+            [2] => wq
+            [3] => eqwe
+            [4] => qwe
+        )
+
+)
+
+
+2025-11-12 12:39:10
+RAW:
+
+PARSED:
+
+
+2025-11-12 12:39:10
+RAW:
+{"email":"w@gmail.com","questions":["Do you enjoy conducting scientific experiments?","Are you curious about how nature and the universe work?","Have you participated in any science fairs or labs?","Do you like explaining how scientific concepts work?","Why do you want to become a Science teacher?"],"answers":["qwe","qwe","qwe","qwe","qwe"]}
+PARSED:
+Array
+(
+    [email] => w@gmail.com
+    [questions] => Array
+        (
+            [0] => Do you enjoy conducting scientific experiments?
+            [1] => Are you curious about how nature and the universe work?
+            [2] => Have you participated in any science fairs or labs?
+            [3] => Do you like explaining how scientific concepts work?
+            [4] => Why do you want to become a Science teacher?
+        )
+
+    [answers] => Array
+        (
+            [0] => qwe
+            [1] => qwe
+            [2] => qwe
+            [3] => qwe
+            [4] => qwe
+        )
+
+)
+
+
+2025-11-13 10:14:25
+RAW:
+
+PARSED:
+
+
+2025-11-13 10:14:25
+RAW:
+{"email":"mai@gmail.com","questions":["Do you enjoy solving mathematical problems?","Are you confident explaining math concepts to others?","Do you like logical reasoning and analysis?","Have you participated in math-related contests or tutoring?","Why do you want to become a Math teacher?"],"answers":["s","s","s","s","s"]}
+PARSED:
+Array
+(
+    [email] => mai@gmail.com
+    [questions] => Array
+        (
+            [0] => Do you enjoy solving mathematical problems?
+            [1] => Are you confident explaining math concepts to others?
+            [2] => Do you like logical reasoning and analysis?
+            [3] => Have you participated in math-related contests or tutoring?
+            [4] => Why do you want to become a Math teacher?
+        )
+
+    [answers] => Array
+        (
+            [0] => s
+            [1] => s
+            [2] => s
+            [3] => s
+            [4] => s
+        )
+
+)
+
+
+2025-11-13 10:15:06
+RAW:
+
+PARSED:
+
+
+2025-11-13 10:15:06
+RAW:
+{"email":"mai@gmail.com","questions":["Have you tried writing simple programs or code before?","Which computer subject in school did you enjoy the most?","Do you like solving puzzles or logical problems?","Have you ever tried making a game or app at school?","Why are you interested in learning more about computers?"],"answers":["qw","w","w","w","w"]}
+PARSED:
+Array
+(
+    [email] => mai@gmail.com
+    [questions] => Array
+        (
+            [0] => Have you tried writing simple programs or code before?
+            [1] => Which computer subject in school did you enjoy the most?
+            [2] => Do you like solving puzzles or logical problems?
+            [3] => Have you ever tried making a game or app at school?
+            [4] => Why are you interested in learning more about computers?
+        )
+
+    [answers] => Array
+        (
+            [0] => qw
+            [1] => w
+            [2] => w
+            [3] => w
+            [4] => w
+        )
+
+)
+
+
+2025-11-13 11:10:19
+RAW:
+
+PARSED:
+
+
+2025-11-13 11:10:19
+RAW:
+{"email":"mai@gmail.com","questions":["Do you enjoy teaching or helping children learn?","Have you participated in tutoring or mentoring programs?","Do you like creating educational activities for kids?","Are you patient and understanding with young learners?","Why do you want to pursue Elementary Education?"],"answers":["qwe","qwe","qw","qwe","qwe"]}
+PARSED:
+Array
+(
+    [email] => mai@gmail.com
+    [questions] => Array
+        (
+            [0] => Do you enjoy teaching or helping children learn?
+            [1] => Have you participated in tutoring or mentoring programs?
+            [2] => Do you like creating educational activities for kids?
+            [3] => Are you patient and understanding with young learners?
+            [4] => Why do you want to pursue Elementary Education?
+        )
+
+    [answers] => Array
+        (
+            [0] => qwe
+            [1] => qwe
+            [2] => qw
+            [3] => qwe
+            [4] => qwe
+        )
+
+)
+
+
+2025-11-13 12:13:55
+RAW:
+
+PARSED:
+
+
+2025-11-13 12:13:55
+RAW:
+{"email":"mai@gmail.com","questions":["Do you enjoy teaching or helping children learn?","Have you participated in tutoring or mentoring programs?","Do you like creating educational activities for kids?","Are you patient and understanding with young learners?","Why do you want to pursue Elementary Education?"],"answers":["qwe","qwe","qwe","qwe","qwe"]}
+PARSED:
+Array
+(
+    [email] => mai@gmail.com
+    [questions] => Array
+        (
+            [0] => Do you enjoy teaching or helping children learn?
+            [1] => Have you participated in tutoring or mentoring programs?
+            [2] => Do you like creating educational activities for kids?
+            [3] => Are you patient and understanding with young learners?
+            [4] => Why do you want to pursue Elementary Education?
+        )
+
+    [answers] => Array
+        (
+            [0] => qwe
+            [1] => qwe
+            [2] => qwe
+            [3] => qwe
+            [4] => qwe
+        )
+
+)
+
+
+2025-11-13 12:14:13
+RAW:
+
+PARSED:
+
+
+2025-11-13 12:14:13
+RAW:
+{"email":"mai@gmail.com","questions":["Do you enjoy teaching or helping children learn?","Have you participated in tutoring or mentoring programs?","Do you like creating educational activities for kids?","Are you patient and understanding with young learners?","Why do you want to pursue Elementary Education?"],"answers":["qwe","qwe","qwe","qwe","qwe"]}
+PARSED:
+Array
+(
+    [email] => mai@gmail.com
+    [questions] => Array
+        (
+            [0] => Do you enjoy teaching or helping children learn?
+            [1] => Have you participated in tutoring or mentoring programs?
+            [2] => Do you like creating educational activities for kids?
+            [3] => Are you patient and understanding with young learners?
+            [4] => Why do you want to pursue Elementary Education?
+        )
+
+    [answers] => Array
+        (
+            [0] => qwe
+            [1] => qwe
+            [2] => qwe
+            [3] => qwe
+            [4] => qwe
+        )
+
+)
+
+
+2025-11-13 12:44:12
+RAW:
+
+PARSED:
+
+
+2025-11-13 12:44:12
+RAW:
+{"email":"ok@gmail.com","questions":["Do you enjoy teaching or helping children learn?","Have you participated in tutoring or mentoring programs?","Do you like creating educational activities for kids?","Are you patient and understanding with young learners?","Why do you want to pursue Elementary Education?"],"answers":["w","w","w","w","w"]}
+PARSED:
+Array
+(
+    [email] => ok@gmail.com
+    [questions] => Array
+        (
+            [0] => Do you enjoy teaching or helping children learn?
+            [1] => Have you participated in tutoring or mentoring programs?
+            [2] => Do you like creating educational activities for kids?
+            [3] => Are you patient and understanding with young learners?
+            [4] => Why do you want to pursue Elementary Education?
+        )
+
+    [answers] => Array
+        (
+            [0] => w
+            [1] => w
+            [2] => w
+            [3] => w
+            [4] => w
+        )
+
+)
+
+
+2025-11-14 18:35:13
+RAW:
+
+PARSED:
+
+
+2025-11-14 18:35:14
+RAW:
+{"email":"joke@gmail.com","questions":["Do you enjoy conducting scientific experiments?","Are you curious about how nature and the universe work?","Have you participated in any science fairs or labs?","Do you like explaining how scientific concepts work?","Why do you want to become a Science teacher?"],"answers":["qwe","qwe","qwe","qwe","qwe"]}
+PARSED:
+Array
+(
+    [email] => joke@gmail.com
+    [questions] => Array
+        (
+            [0] => Do you enjoy conducting scientific experiments?
+            [1] => Are you curious about how nature and the universe work?
+            [2] => Have you participated in any science fairs or labs?
+            [3] => Do you like explaining how scientific concepts work?
+            [4] => Why do you want to become a Science teacher?
+        )
+
+    [answers] => Array
+        (
+            [0] => qwe
+            [1] => qwe
+            [2] => qwe
+            [3] => qwe
+            [4] => qwe
+        )
+
+)
+
+
+2025-11-14 18:44:11
+RAW:
+
+PARSED:
+
+
+2025-11-14 18:44:11
+RAW:
+{"email":"joke@gmail.com","questions":["Do you enjoy teaching or helping children learn?","Have you participated in tutoring or mentoring programs?","Do you like creating educational activities for kids?","Are you patient and understanding with young learners?","Why do you want to pursue Elementary Education?"],"answers":["qwe","wqe","qwe","qwe","wqe"]}
+PARSED:
+Array
+(
+    [email] => joke@gmail.com
+    [questions] => Array
+        (
+            [0] => Do you enjoy teaching or helping children learn?
+            [1] => Have you participated in tutoring or mentoring programs?
+            [2] => Do you like creating educational activities for kids?
+            [3] => Are you patient and understanding with young learners?
+            [4] => Why do you want to pursue Elementary Education?
+        )
+
+    [answers] => Array
+        (
+            [0] => qwe
+            [1] => wqe
+            [2] => qwe
+            [3] => qwe
+            [4] => wqe
+        )
+
+)
+
+
+2025-11-15 08:45:06
+RAW:
+
+PARSED:
+
+
+2025-11-15 08:45:06
+RAW:
+{"email":"Test@gmail.com","questions":["Do you enjoy solving mathematical problems?","Are you confident explaining math concepts to others?","Do you like logical reasoning and analysis?","Have you participated in math-related contests or tutoring?","Why do you want to become a Math teacher?"],"answers":["wqe","qwe","qwe","qwe","qwe"]}
+PARSED:
+Array
+(
+    [email] => Test@gmail.com
+    [questions] => Array
+        (
+            [0] => Do you enjoy solving mathematical problems?
+            [1] => Are you confident explaining math concepts to others?
+            [2] => Do you like logical reasoning and analysis?
+            [3] => Have you participated in math-related contests or tutoring?
+            [4] => Why do you want to become a Math teacher?
+        )
+
+    [answers] => Array
+        (
+            [0] => wqe
+            [1] => qwe
+            [2] => qwe
+            [3] => qwe
+            [4] => qwe
+        )
+
+)
+
+

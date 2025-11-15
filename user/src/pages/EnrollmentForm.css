@@ -1,0 +1,199 @@
+/* =========================
+   Enhanced Responsive Enrollment UI
+   ========================= */
+
+/* Global layout */
+html, body, #root {
+  height: 100%;
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  background-color: #f4f6fa;
+  overflow-x: hidden;
+  width: 100%;
+}
+
+/* Navbar */
+.navbar-dark {
+  background: linear-gradient(90deg, #1f2937, #111827);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+}
+.navbar-dark .navbar-brand {
+  font-weight: 700;
+  letter-spacing: 1px;
+  color: #f9fafb !important;
+  text-align: center;
+}
+.navbar-dark .nav-link {
+  color: #e5e7eb !important;
+  font-weight: 500;
+  transition: color 0.2s ease;
+}
+.navbar-dark .nav-link:hover {
+  color: #60a5fa !important;
+}
+
+/* Card container */
+.course-cards-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 30px;
+  margin: 60px auto;
+  max-width: 1200px;
+  padding: 0 20px;
+}
+
+/* Course cards */
+.course-card {
+  background: #ffffff;
+  border-radius: 20px;
+  width: 270px;
+  text-align: center;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+  transition: all 0.3s ease;
+  cursor: pointer;
+  border: none;
+}
+.course-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 12px 25px rgba(0, 0, 0, 0.15);
+}
+.course-card .card-body {
+  padding: 25px 20px;
+}
+.course-card .card-title {
+  font-weight: 600;
+  color: #1f2937;
+  font-size: 1.3rem;
+}
+.course-card .card-text {
+  color: #6b7280;
+  font-size: 0.95rem;
+  min-height: 60px;
+  line-height: 1.4;
+}
+
+/* Buttons */
+button, .btn {
+  border-radius: 10px !important;
+  font-weight: 500 !important;
+  transition: all 0.25s ease;
+}
+.btn-primary {
+  background-color: #2563eb !important;
+  border: none;
+}
+.btn-primary:hover {
+  background-color: #1d4ed8 !important;
+  transform: scale(1.03);
+}
+.btn-success {
+  background-color: #16a34a !important;
+}
+.btn-success:hover {
+  background-color: #15803d !important;
+}
+.btn-secondary {
+  background-color: #6b7280 !important;
+}
+.btn-secondary:hover {
+  background-color: #4b5563 !important;
+}
+
+/* Modals */
+.modal-content {
+  border-radius: 18px;
+  border: none;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.15);
+  animation: fadeIn 0.3s ease-in-out;
+}
+.modal-header {
+  background-color: #1f2937;
+  color: #fff;
+  border-bottom: none;
+  border-radius: 18px 18px 0 0;
+}
+.modal-body {
+  font-size: 0.95rem;
+  color: #374151;
+}
+.modal-footer {
+  border-top: none;
+}
+@keyframes fadeIn {
+  from { opacity: 0; transform: scale(0.96); }
+  to { opacity: 1; transform: scale(1); }
+}
+
+/* Toasts */
+.toast-container {
+  top: 20px !important;
+}
+.toast {
+  border-radius: 12px !important;
+  box-shadow: 0 6px 15px rgba(0,0,0,0.25);
+  animation: slideDown 0.4s ease;
+}
+@keyframes slideDown {
+  from { opacity: 0; transform: translateY(-15px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* Inputs */
+.form-control {
+  border-radius: 10px !important;
+  border: 1px solid #d1d5db;
+  padding: 10px 12px;
+  font-size: 0.95rem;
+}
+.form-control:focus {
+  border-color: #2563eb;
+  box-shadow: 0 0 0 0.2rem rgba(37,99,235,0.25);
+}
+ 
+/* Responsive Layouts */
+@media (max-width: 1024px) {
+  .course-cards-container {
+    gap: 20px;
+  }
+}
+
+@media (max-width: 768px) {
+  .navbar-dark .navbar-brand {
+    font-size: 1.2rem;
+  }
+  .course-card {
+    width: 85%;
+  }
+  .modal-body {
+    font-size: 0.9rem;
+  }
+  .modal-content {
+    margin: 10px;
+  }
+}
+
+@media (max-width: 576px) {
+  .course-cards-container {
+    flex-direction: column;
+    align-items: center;
+    margin-top: 40px;
+  }
+  .course-card {
+    width: 90%;
+    padding: 15px;
+  }
+  .card-title {
+    font-size: 1.1rem;
+  }
+  .card-text {
+    font-size: 0.9rem;
+  }
+  .btn, button {
+    font-size: 0.9rem !important;
+    padding: 10px 0;
+  }
+  .navbar-dark .navbar-brand {
+    font-size: 1rem;
+  }
+}
